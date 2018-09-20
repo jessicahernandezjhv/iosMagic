@@ -1,3 +1,45 @@
 {
+  "amount": {
     "totalAmount": "111111.10"
+  },
+  "countdown": {
+    "dateline": "2019-02-24T10:00:00 +0200"
+  },
+  "news": [
+    {
+      "newsTitle": "Wombat Kombat",
+      "newsBody": "en el inicio de los tiempos los wombats poblaban la tierra"
+    },
+    {
+      "newsTitle": "String de Wombat Kombat",
+      "newsBody": "Kombat Kombat confirma la seva assistencia a la Magic Line amb un concert benefic."
+    },
+    {
+      "newsTitle": "huha tokoto al fresc",
+      "newsBody": "La companyia de teatre Dos i Tres Quarts, fará una representació cómica de Harry Potter."
+    },
+    {
+      "newsTitle": "Xerrada motivacional de Baloo",
+      "newsBody": "Busca lo más vital no más, lo que es necesidad no más ... "
+    }
+  ],
+  "otherValues": [
+    {
+      "valueDescription": "Valores añadidos 1",
+      "valueImage": "AnotherValuesImage1"
+    },
+    {
+      "valueDescription": "Valores añadidos 2",
+      "valueImage": "AnotherValuesImage2"
+    },
+    {
+      "valueDescription": "Valores añadidos 3",
+      "valueImage": "AnotherValuesImage3"
+    }
+  ],
+  "rrss": {
+    "facebookURL": "https://es-es.facebook.com/magiclineSJD/",
+    "instagramURL": "https://www.instagram.com/magiclinesjd/?hl=es",
+    "twitterURL": "https://twitter.com/magiclinesjd?lang=es"
+  }
 }
