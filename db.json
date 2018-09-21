@@ -25,20 +25,22 @@
     }
   ]
   },
-  "otherValues": [
-    {
-      "valueDescription": "Valores añadidos 1",
-      "valueImage": "AnotherValuesImage1"
-    },
-    {
-      "valueDescription": "Valores añadidos 2",
-      "valueImage": "AnotherValuesImage2"
-    },
-    {
-      "valueDescription": "Valores añadidos 3",
-      "valueImage": "AnotherValuesImage3"
-    }
-  ],
+"otherValues": {  
+  "values": [
+  {
+    "valueDescription": "Valores añadidos 1",
+    "valueImage": "AnotherValuesImage1"
+  },
+  {
+    "valueDescription": "Valores añadidos 2",
+    "valueImage": "AnotherValuesImage2"
+  },
+  {
+    "valueDescription": "Valores añadidos 3",
+    "valueImage": "AnotherValuesImage3"
+  }
+]
+},
   "rrss": {
     "facebookURL": "https://es-es.facebook.com/magiclineSJD/",
     "instagramURL": "https://www.instagram.com/magiclinesjd/?hl=es",
