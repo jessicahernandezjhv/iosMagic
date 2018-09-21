@@ -5,6 +5,7 @@
   "countdown": {
     "dateline": "2019-02-24T10:00:00 +0200"
   },
+"news": {  
   "news": [
     {
       "newsTitle": "Wombat Kombat",
@@ -22,7 +23,8 @@
       "newsTitle": "Xerrada motivacional de Baloo",
       "newsBody": "Busca lo más vital no más, lo que es necesidad no más ... "
     }
-  ],
+  ]
+  },
   "otherValues": [
     {
       "valueDescription": "Valores añadidos 1",
